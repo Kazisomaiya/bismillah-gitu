@@ -3,4 +3,5 @@ div{
     border: 3px;
     padding: 10px;
     background-color: tomato;
+    border-radius: 10px;
 }
